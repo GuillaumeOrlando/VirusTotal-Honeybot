@@ -5,6 +5,9 @@ This python based bot scan every file in the same folder and check the hash on V
 If the md5 is already associate with a specific file, the bot review the file with some details.
 Here is an exemple of a comment made by this bot :
 
+![Alt text](/docs/Capture.PNG?raw=true "Honeybot review")
+
+
 If the sample is new, the bot upload the file then review it on the same way.
 
 <!> Work in progress, but still functional <!>
