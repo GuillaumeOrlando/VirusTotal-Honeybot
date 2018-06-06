@@ -10,4 +10,6 @@ Here is an exemple of a comment made by this bot :
 
 If the sample is new, the bot upload the file then review it on the same way.
 
+Live demo : https://www.virustotal.com/#/user/Homardboy
+
 <!> Work in progress, but still functional <!>
