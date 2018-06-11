@@ -1,15 +1,14 @@
 # VirusTotal-Honeybot
 
-If you run a malware honeypot, this project is an easy way to contribute to the Malware-researcher community.
-This python based bot scan every file in the same folder and check the hash on VirusTotal.
-If the md5 is already associate with a specific file, the bot review the file with some details.
+If you run a malware honeypot, this project is an easy way to contribute to the malware-researcher community.
+This python based bot manage your samples by checking them on VirusTotal and sorting the already scanned samples, the already known malwares and the fresh new ones.
+
+The new files are upload on VirusTotal and the others are commented with somes details.
+
 Here is an exemple of a comment made by this bot :
 
 ![Alt text](/docs/Capture.PNG?raw=true "Honeybot review")
 
-
-If the sample is new, the bot upload the file then review it on the same way.
-
 Live demo : https://www.virustotal.com/#/user/Homardboy
 
-<!> Work in progress, but still functional <!>
+<!> Work in progress <!>
