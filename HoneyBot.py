@@ -11,7 +11,7 @@ import os
 from virus_total_apis import PublicApi as VirusTotalPublicApi
 
 rawdata = pygeoip.GeoIP('GeoLiteCity/GeoLiteCity.dat')
-API_KEY = '07a3ca0b4cde90d586d3bdb65ddb282047a4d9cb8568290321eee9b9fd7a2fa0'
+API_KEY = '<** INSERT API KEY HERE **>'
 vt = VirusTotalPublicApi(API_KEY)
 
 md5_ok = []
